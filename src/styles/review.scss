@@ -1,0 +1,170 @@
+body {
+	font-family: 'PingFang SC';
+	background: $background;
+	font-size: 14px;
+	line-height: 22px;
+	color: rgba(255, 255, 255, 0.85);
+}
+
+.container {
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+.header {
+	padding: 48px 0px;
+	background: $headerbackground;
+}
+
+.header__logo {
+	cursor: pointer;
+	}
+
+.header__title {
+	padding-top: 40px;
+	font-size: 60px;
+	line-height: 80px;
+	text-transform: capitalize;
+	}
+
+.section {
+	padding: 64px 0px;
+}
+
+.section__title {
+	font-size: 32px;
+	line-height: 48px;
+}
+
+.section__subtitle {
+	padding: 40px 0px 24px 0px;
+	font-size: 24px;
+	line-height: 36px;
+}
+
+.alert__wrapper {
+	max-width: 672px;
+	background: #1A1A1A;
+	border: 1px dashed $border;
+	border-radius: 5px;
+	gap: 24px;
+	padding: 16px 16px 16px 16px;
+}
+
+.alert--secondblock {
+	padding: 89px 0px 153px 0px;
+}
+
+.alert__item {
+	position: relative;
+	margin: 16px 0px 24px 0px;
+	padding: 9px 0px 9px 0px;
+	gap: 8px;
+	isolation: isolate;
+	border-radius: 4px;
+
+	&.alert__item--secondblock {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		padding: 9px 12px 9px 16px;
+	}
+
+	&.alert__item--info {
+		background-color: $bgInfo;
+		border-color: $borderInfo;
+	}
+	
+	&.alert__item--warning {
+		background-color: $bgWarning;
+		border-color: $borderWarning;
+	}
+	
+	&.alert__item--danger {
+		background-color: $bgDanger;
+		border-color: $borderDanger;
+	}
+	
+	&.alert__item--success {
+		background-color: $bgSuccess;
+		border-color: $borderSuccess;
+	}	
+
+	&.alert__item--border {
+		border-width: 1px;
+		border-radius: 4px;
+		border-style: solid;
+	}
+}
+
+
+.alert__media {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 9px;
+
+	&.alert__media--thirdblock {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 4px;
+	}
+}
+
+.alert__action {
+	font-size: 12px;
+	line-height: 18px;
+	color: $action;
+}
+
+.alert__close {
+	padding: 6px;
+	background-image: url(../images/close.svg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: #00000000;
+
+	&.alert__close--position {
+		position: absolute;
+		top: 10px;
+		left: 600px;
+	}
+}	
+
+.alert__button {
+	display: flex;
+	align-items: center;
+	gap: 16px;
+}
+
+.alert__btn {
+		font-size: 12px;
+		line-height: 18px;
+		color: $font;
+		cursor: pointer;
+		padding: 3px 8px;
+		border-radius: 4px;
+		
+	&.alert__btn--info {
+		background: $btnInfo;
+	}
+
+	&.alert__btn--warning {
+		background: $btnWarning;
+	}
+
+	&.alert__btn--danger {
+		background: $btnDanger;
+	}
+
+	&.alert__btn--success {
+		background: $btnSuccess;
+	}
+
+	&.alert__btn--large {
+		padding: 6px 16px 6px 16px;
+		font-size: 13px;
+	}
+	
+}
