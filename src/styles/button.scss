@@ -1,0 +1,36 @@
+.alert__button {
+	display: flex;
+	align-items: center;
+	gap: 16px;
+}
+
+.alert__btn {
+		font-size: 12px;
+		line-height: 18px;
+		color: $font;
+		cursor: pointer;
+		padding: 3px 8px;
+		border-radius: 4px;
+		
+	&.alert__btn--info {
+		background: $btnInfo;
+	}
+
+	&.alert__btn--warning {
+		background: $btnWarning;
+	}
+
+	&.alert__btn--danger {
+		background: $btnDanger;
+	}
+
+	&.alert__btn--success {
+		background: $btnSuccess;
+	}
+
+	&.alert__btn--large {
+		padding: 6px 16px 6px 16px;
+		font-size: 13px;
+	}
+	
+}

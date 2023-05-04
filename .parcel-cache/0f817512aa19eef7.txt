@@ -1,5 +1,5 @@
 2345
-51C:\Users\Mariia\Alert_version\src\styles\alert.scss133274465213750095 0
+51C:\Users\Mariia\Alert_version\src\styles\alert.scss133276696513576740 0
 87C:\Users\Mariia\Alert_version\node_modules\node-gyp-build-optional-packages\optional.js133274472106858841 0
 40C:\Users\Mariia\Alert_version\src\images133274468928909830 1
 60C:\Users\Mariia\Alert_version\node_modules\readdirp\index.js133274472100166077 0
@@ -7,9 +7,9 @@
 93C:\Users\Mariia\Alert_version\node_modules\caniuse-lite\data\features\alternate-stylesheet.js133274472143475232 0
 74C:\Users\Mariia\Alert_version\node_modules\caniuse-lite\data\regions\KN.js133274472232272179 0
 95C:\Users\Mariia\Alert_version\node_modules\caniuse-lite\data\features\keyboardevent-location.js133274472231755623 0
-34C:\Users\Mariia\Alert_version\dist133274852473819563 1
+34C:\Users\Mariia\Alert_version\dist133276713410927412 1
 33C:\Users\Mariia\Alert_version\src133274465717659903 1
-52C:\Users\Mariia\Alert_version\src\styles\button.scss133274471004971864 0
+52C:\Users\Mariia\Alert_version\src\styles\button.scss133274889771731385 0
 69C:\Users\Mariia\Alert_version\node_modules\@parcel\types\package.json133274472112806702 0
 67C:\Users\Mariia\Alert_version\node_modules\normalize-path\README.md133274472104720016 0
 83C:\Users\Mariia\Alert_version\node_modules\node-gyp-build-optional-packages\LICENSE133274472097380654 0
@@ -20,7 +20,7 @@
 49C:\Users\Mariia\Alert_version\node_modules\semver133274472114989492 1
 59C:\Users\Mariia\Alert_version\node_modules\lmdb\src\txn.cpp133274472183663777 0
 64C:\Users\Mariia\Alert_version\node_modules\msgpackr\package.json133274472144446329 0
-53C:\Users\Mariia\Alert_version\dist\index.867122b9.css133274852472299123 0
+53C:\Users\Mariia\Alert_version\dist\index.867122b9.css133276712654135345 0
 42C:\Users\Mariia\Alert_version\package.json133274472306722980 0
 110C:\Users\Mariia\Alert_version\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages133274472277042333 0
 39C:\Users\Mariia\Alert_version\src\fonts133274472953038779 1
@@ -42,7 +42,7 @@
 39C:\Users\Mariia\Alert_version\README.md133274460795893469 0
 58C:\Users\Mariia\Alert_version\node_modules\detect-libc\bin133274472111177993 1
 68C:\Users\Mariia\Alert_version\node_modules\@parcel\core\lib\types.js133274472195387356 0
-44C:\Users\Mariia\Alert_version\src\index.html133274474194543284 0
+44C:\Users\Mariia\Alert_version\src\index.html133276702527302286 0
 78C:\Users\Mariia\Alert_version\node_modules\msgpackr\dist\index-no-eval.cjs.map133274472146511483 0
 74C:\Users\Mariia\Alert_version\node_modules\caniuse-lite\data\regions\SC.js133274472255591345 0
 96C:\Users\Mariia\Alert_version\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc2.c133274472174559584 0
@@ -52,7 +52,7 @@
 74C:\Users\Mariia\Alert_version\node_modules\caniuse-lite\data\regions\NC.js133274472247259793 0
 49C:\Users\Mariia\Alert_version\node_modules\@lezer133274472074761108 1
 82C:\Users\Mariia\Alert_version\node_modules\@parcel\core\lib\ParcelConfig.schema.js133274472185462308 0
-43C:\Users\Mariia\Alert_version\src\script.js133274465717659903 0
+43C:\Users\Mariia\Alert_version\src\script.js133276713391076549 0
 80C:\Users\Mariia\Alert_version\node_modules\.bin\node-gyp-build-optional-packages133274472277198606 0
 85C:\Users\Mariia\Alert_version\node_modules\utility-types\dist\functional-helpers.d.ts133274472134240523 0
 70C:\Users\Mariia\Alert_version\node_modules\@parcel\events\src\types.js133274472122278322 0
@@ -65,7 +65,7 @@
 56C:\Users\Mariia\Alert_version\node_modules\dotenv-expand133274472111096979 1
 88C:\Users\Mariia\Alert_version\node_modules\caniuse-lite\data\features\background-sync.js133274472169089805 0
 91C:\Users\Mariia\Alert_version\node_modules\caniuse-lite\data\features\speech-recognition.js133274472258415380 0
-51C:\Users\Mariia\Alert_version\src\styles\color.scss133274474269174811 0
+51C:\Users\Mariia\Alert_version\src\styles\color.scss133274874183577534 0
 62C:\Users\Mariia\Alert_version\node_modules\safe-buffer\LICENSE133274472097400952 0
 54C:\Users\Mariia\Alert_version\node_modules\glob-parent133274472106354626 1
 78C:\Users\Mariia\Alert_version\node_modules\caniuse-lite\data\regions\alt-eu.js133274472139589516 0
@@ -77,7 +77,7 @@
 54C:\Users\Mariia\Alert_version\src\images\info-icon.svg133258881079727474 0
 66C:\Users\Mariia\Alert_version\node_modules\weak-lru-cache\index.js133274472104416862 0
 55C:\Users\Mariia\Alert_version\node_modules\lmdb\open.js133274472190726599 0
-52C:\Users\Mariia\Alert_version\src\styles\review.scss133274473507503555 0
+52C:\Users\Mariia\Alert_version\src\styles\review.scss133274872934221946 0
 79C:\Users\Mariia\Alert_version\node_modules\@parcel\watcher\src\watchman\BSER.cc133274472112604741 0
 52C:\Users\Mariia\Alert_version\src\styles\styles.scss133274471797945867 0
 97C:\Users\Mariia\Alert_version\node_modules\caniuse-lite\data\features\css-file-selector-button.js133274472194358397 0
@@ -387,7 +387,7 @@
 68C:\Users\Mariia\Alert_version\node_modules\utility-types\SECURITY.md133274472129254481 0
 67C:\Users\Mariia\Alert_version\node_modules\utility-types\SUPPORT.md133274472130773712 0
 67C:\Users\Mariia\Alert_version\node_modules\lmdb\src\compression.cpp133274472181343912 0
-57C:\Users\Mariia\Alert_version\dist\index.867122b9.css.map133274852473819563 0
+57C:\Users\Mariia\Alert_version\dist\index.867122b9.css.map133276712657454546 0
 85C:\Users\Mariia\Alert_version\node_modules\utility-types\dist\aliases-and-guards.d.ts133274472132398408 0
 70C:\Users\Mariia\Alert_version\node_modules\@parcel\events\lib\index.js133274472117780835 0
 78C:\Users\Mariia\Alert_version\node_modules\caniuse-lite\data\regions\alt-an.js133274472135776847 0
@@ -1122,7 +1122,7 @@
 76C:\Users\Mariia\Alert_version\node_modules\@lmdb\lmdb-win32-x64\package.json133274472099128153 0
 77C:\Users\Mariia\Alert_version\node_modules\caniuse-lite\data\features\spdy.js133274472258397021 0
 71C:\Users\Mariia\Alert_version\node_modules\@parcel\package-manager\test133274472152760501 1
-59C:\Users\Mariia\Alert_version\dist\danger-icon.613852fa.svg133274474665588310 0
+59C:\Users\Mariia\Alert_version\dist\danger-icon.613852fa.svg133276712653815342 0
 75C:\Users\Mariia\Alert_version\node_modules\electron-to-chromium\versions.js133274472118374667 0
 64C:\Users\Mariia\Alert_version\node_modules\ansi-styles\readme.md133274472105245242 0
 68C:\Users\Mariia\Alert_version\node_modules\@parcel\watcher\README.md133274472153762935 0
@@ -2284,7 +2284,7 @@
 72C:\Users\Mariia\Alert_version\node_modules\@parcel\cache\src\IDBCache.js133274472115312593 0
 69C:\Users\Mariia\Alert_version\node_modules\@parcel\cache\src\index.js133274472120859808 0
 71C:\Users\Mariia\Alert_version\node_modules\@parcel\cache\lib\FSCache.js133274472101711740 0
-60C:\Users\Mariia\Alert_version\dist\success-icon.2bfbb427.svg133274474665588310 0
+60C:\Users\Mariia\Alert_version\dist\success-icon.2bfbb427.svg133276712653815342 0
 80C:\Users\Mariia\Alert_version\node_modules\@parcel\cache\lib\IDBCache.browser.js133274472106354626 0
 72C:\Users\Mariia\Alert_version\node_modules\@parcel\cache\lib\IDBCache.js133274472114065702 0
 73C:\Users\Mariia\Alert_version\node_modules\@parcel\cache\lib\LMDBCache.js133274472121955327 0
@@ -2313,7 +2313,7 @@
 69C:\Users\Mariia\Alert_version\node_modules\@lezer\common\package.json133274472113210839 0
 66C:\Users\Mariia\Alert_version\node_modules\@lezer\common\README.md133274472114682006 0
 71C:\Users\Mariia\Alert_version\node_modules\@lezer\common\dist\index.cjs133274472103730761 0
-66C:\Users\Mariia\Alert_version\dist\PingFangSCRegular.ebfb95c6.woff133274474672461096 0
+66C:\Users\Mariia\Alert_version\dist\PingFangSCRegular.ebfb95c6.woff133276712662773171 0
 72C:\Users\Mariia\Alert_version\node_modules\@lezer\common\dist\index.d.ts133274472117780835 0
 70C:\Users\Mariia\Alert_version\node_modules\@lezer\common\dist\index.js133274472110838697 0
 66C:\Users\Mariia\Alert_version\node_modules\.bin\node-gyp-build.ps1133274472277042333 0
@@ -2334,13 +2334,13 @@
 56C:\Users\Mariia\Alert_version\node_modules\.bin\sass.cmd133274472277042333 0
 54C:\Users\Mariia\Alert_version\node_modules\.bin\semver133274472277359853 0
 74C:\Users\Mariia\Alert_version\node_modules\.bin\update-browserslist-db.cmd133274472277198606 0
-60C:\Users\Mariia\Alert_version\dist\Alert_version.59712999.js133274474665598239 0
-64C:\Users\Mariia\Alert_version\dist\Alert_version.59712999.js.map133274474666076464 0
-53C:\Users\Mariia\Alert_version\dist\close.b195aaf1.svg133274474665588310 0
-52C:\Users\Mariia\Alert_version\dist\index.44983732.js133274474667095971 0
-56C:\Users\Mariia\Alert_version\dist\index.44983732.js.map133274474667356045 0
-45C:\Users\Mariia\Alert_version\dist\index.html133274474656097443 0
-57C:\Users\Mariia\Alert_version\dist\info-icon.a0a4618e.svg133274474665578381 0
-52C:\Users\Mariia\Alert_version\dist\Logo.96fe08a9.svg133274474665568453 0
-67C:\Users\Mariia\Alert_version\dist\PingFangSCRegular.e56618a0.woff2133274474670454566 0
-60C:\Users\Mariia\Alert_version\dist\warning-icon.311741c0.svg133274474665588310 0
+60C:\Users\Mariia\Alert_version\dist\Alert_version.59712999.js133276712654215327 0
+64C:\Users\Mariia\Alert_version\dist\Alert_version.59712999.js.map133276712657454546 0
+53C:\Users\Mariia\Alert_version\dist\close.b195aaf1.svg133276712653815342 0
+52C:\Users\Mariia\Alert_version\dist\index.44983732.js133276713410458839 0
+56C:\Users\Mariia\Alert_version\dist\index.44983732.js.map133276713410615038 0
+45C:\Users\Mariia\Alert_version\dist\index.html133276712654135345 0
+57C:\Users\Mariia\Alert_version\dist\info-icon.a0a4618e.svg133276712653815342 0
+52C:\Users\Mariia\Alert_version\dist\Logo.96fe08a9.svg133276712653815342 0
+67C:\Users\Mariia\Alert_version\dist\PingFangSCRegular.e56618a0.woff2133276712661289783 0
+60C:\Users\Mariia\Alert_version\dist\warning-icon.311741c0.svg133276712653815342 0
